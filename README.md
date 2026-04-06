@@ -1,2 +1,4 @@
-# KodiDaBear.github.io
-A FULLY ONLINE SNAKE!!!!!
+# SNAKEEY!
+
+
+A online snake game where you fight to get the apple, get on the server's leaderboards, buy items, and don't die.
